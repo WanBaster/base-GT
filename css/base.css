@@ -15,5 +15,5 @@ body {
     justify-content: center;
     padding: var(--espacamento-padrao);
     transition: background 0.3s, color 0.3s;
-
 }
+
